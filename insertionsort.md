@@ -25,7 +25,7 @@
 
 ## 2. Big-0 gösterimi 
 - worst case  O(n^2)
-0+1+2+3+4…..+n-1 = [n*(n-1)]/2   :  n^2
+- 0+1+2+3+4…..+n-1 = [n*(n-1)]/2   :  n^2
 
 ## 3. Zaman karmaşıklığı
 - best case: O(n)
